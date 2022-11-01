@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @leahnagy
-- 👀 I’m interested in learning all things Data Science & Machine Learning
-- 🌱 I’m currently a student at Metis
+- 👀 I’m interested in all things Data Science & Machine Learning
+
